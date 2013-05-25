@@ -3,7 +3,7 @@
   "description": "The fan edition of the famous happy fly game ported for Firefox OS Day Switzerland",
   "launch_path": "index.html",
   "icons": {
-    "128": "/media/icon-128.png"
+    "128": "media/icon-128.png"
   },
   "developer": {
     "name": "The commiters",
