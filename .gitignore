@@ -2,3 +2,4 @@ lib/impact/*
 .idea/
 lib/weltmeister/*
 game.min.js
+unused/*
