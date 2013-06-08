@@ -6,8 +6,8 @@
     "128": "media/icon-128.png"
   },
   "developer": {
-    "name": "The commiters",
-    "url": "http://google.com"
+    "name": "The commiters"
   },
-  "default_locale": "en"
+  "default_locale": "en",
+  "version": "0.6"
 }
